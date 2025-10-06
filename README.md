@@ -1,20 +1,25 @@
-👋 Hi, I’m **Alok Patel**, a passionate developer exploring full-stack development, data science, and competitive programming.  
+# 👋 Hi, I’m **Alok Patel**  
+A passionate developer exploring **Full-Stack Development**, **Data Science**, and **Competitive Programming**.  
 
-💻 Strong in **Data Structures & Algorithms**, with a focus on problem solving (CP).  
+💻 Strong in **Data Structures & Algorithms**, with a focus on problem-solving (CP).  
 
-⚡ Skilled in **MERN Stack, Java, C++, Python**, and exploring **Cloud & System Design**.  
+⚡ Skilled in **MERN Stack, Java, C++, Python**, and actively exploring **Cloud & System Design**.  
 
 📊 Experienced in **Data Science, Machine Learning, and AI-based solutions**.  
 
-🌱 Always learning, building, and contributing.  
+🌱 Always learning, building, and contributing to open-source and personal projects.
 
-## 🌐 Socials:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alok-patel-6788a526b/)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alokpatel2608@gmail.com)  
+---
 
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alok-patel-6788a526b/)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alokpatel2608@gmail.com)  
 
+---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
+### Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -24,10 +29,7 @@
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
----
-
-# 🌐 Web & Frameworks
-
+### Web & Frameworks
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
@@ -36,10 +38,7 @@
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
----
-
-# 📊 Data Science & Machine Learning
-
+### Data Science & Machine Learning
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
@@ -50,10 +49,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) 
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white)
 
----
-
-# 🛠️ Databases & DevOps
-
+### Databases & DevOps
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
@@ -67,20 +63,39 @@
 
 ---
 
+## 📊 GitHub Stats
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alok2608&theme=onedark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=alok2608&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alok2608&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
+
+<!-- Top Row: GitHub Stats + Current Streak -->
+<div style="display: flex; justify-content: center; gap: 150px; flex-wrap: wrap; align-items: flex-start;">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=alok2608&theme=onedark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" width="500" />
+
+  <!-- Current Streak -->
+  <img src="https://nirzak-streak-stats.vercel.app/?user=alok2608&theme=onedark&hide_border=false" alt="GitHub Streak" width="500" />
+</div>
+
+<br/>
+
+<!-- Bottom Row: Top Languages -->
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alok2608&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="450" />
+</div>
+
+</div>
+
+---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alok2608&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+---
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![snake gif](https://github.com/alok2608/alok2608/blob/output/github-snake-dark.svg)
+---
 
 
-
-
+<img src="https://raw.githubusercontent.com/alok2608/alok2608/output/github-snake-dark.svg" alt="GitHub Snake Animation" height="150"/>
