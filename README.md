@@ -79,5 +79,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img src="https://yourdomain.com/github-snake.gif" alt="GitHub Snake Animation" />
+![GitHub Contributions](https://ghchart.rshah.org/alok2608)
+
+
 
