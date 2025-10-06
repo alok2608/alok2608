@@ -1,9 +1,11 @@
-
 👋 Hi, I’m **Alok Patel**, a passionate developer exploring full-stack development, data science, and competitive programming.  
 
 💻 Strong in **Data Structures & Algorithms**, with a focus on problem solving (CP).  
+
 ⚡ Skilled in **MERN Stack, Java, C++, Python**, and exploring **Cloud & System Design**.  
+
 📊 Experienced in **Data Science, Machine Learning, and AI-based solutions**.  
+
 🌱 Always learning, building, and contributing.  
 
 ## 🌐 Socials:  
