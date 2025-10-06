@@ -79,7 +79,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<br clear="both">
+<img src="https://yourdomain.com/github-snake.gif" alt="GitHub Snake Animation" />
 
-<!-- GitHub Snake Animation / Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alok2608&theme=radical" alt="GitHub Snake Animation" />
