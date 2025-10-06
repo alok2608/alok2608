@@ -79,30 +79,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-<!-- Gaming & Social Badges -->
-<div align="left">
-  <a href="https://www.youtube.com/yourchannel" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="YouTube" />
-  </a>
-  <a href="https://www.instagram.com/yourinstagram" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
-  </a>
-  <a href="https://www.twitch.tv/yourtwitch" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&color=9146FF&logoColor=white&style=for-the-badge" height="35" alt="Twitch" />
-  </a>
-  <a href="https://discord.gg/yourdiscord" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="Discord" />
-  </a>
-  <a href="mailto:alokpatel2608@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/alok-patel-6788a526b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
-</div>
-
 <br clear="both">
 
-<!-- GitHub Snake Animation -->
-<img src="https://activity-graph.herokuapp.com/graph?username=alok2608&theme=dracula" alt="GitHub Snake Animation" />
+<!-- GitHub Snake Animation / Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alok2608&theme=radical" alt="GitHub Snake Animation" />
