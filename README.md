@@ -79,7 +79,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![GitHub Contributions](https://ghchart.rshah.org/alok2608)
+[snake gif](https://github.com/alok2608/alok2608/blob/output/github-snake-dark.svg)
+
 
 
 
