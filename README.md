@@ -67,23 +67,21 @@ A passionate developer exploring **Full-Stack Development**, **Data Science**, a
 
 <div align="center">
 
-<!-- Top Row: GitHub Stats + Current Streak -->
-<div style="display: flex; justify-content: center; gap: 150px; flex-wrap: wrap; align-items: flex-start;">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=alok2608&theme=onedark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" width="500" />
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=alok2608&theme=onedark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" width="500" />
 
-  <!-- Current Streak -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=alok2608&theme=onedark&hide_border=false" alt="GitHub Streak" width="500" />
-</div>
+<br/><br/>
 
-<br/>
+<!-- Current Streak -->
+<img src="https://nirzak-streak-stats.vercel.app/?user=alok2608&theme=onedark&hide_border=false" alt="GitHub Streak" width="500" />
 
-<!-- Bottom Row: Top Languages -->
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alok2608&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="450" />
-</div>
+<br/><br/>
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alok2608&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="450" />
 
 </div>
+
 
 ---
 
